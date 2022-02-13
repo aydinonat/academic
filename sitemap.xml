@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="https://aydinonat.github.io/academic/sitemap.xsl"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+<url>
+<loc>https://aydinonat.github.io/academic/</loc>
+</url>
+<url>
+<loc>https://aydinonat.github.io/academic/about/</loc>
+<lastmod>2022-02-13T10:03:36+02:00</lastmod>
+<image:image>
+<image:loc>https://aydinonat.github.io/academic/media/posts/1/emrah-aydinonat.jpeg</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+</url>
+<url>
+<loc>https://aydinonat.github.io/academic/cv/</loc>
+<lastmod>2022-02-13T09:03:19+02:00</lastmod>
+</url>
+<url>
+<loc>https://aydinonat.github.io/academic/publications/</loc>
+<lastmod>2022-02-13T10:13:42+02:00</lastmod>
+<image:image>
+<image:loc>https://aydinonat.github.io/academic/media/posts/4/invisible-hand.jpeg</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://aydinonat.github.io/academic/media/posts/4/econmadefun.jpg</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+</url>
+<url>
+<loc>https://aydinonat.github.io/academic/teaching/</loc>
+<lastmod>2022-02-13T08:53:31+02:00</lastmod>
+</url>
+</urlset>
